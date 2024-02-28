@@ -1,3 +1,5 @@
 Welcome to Ammo Arcade, the adrenaline-fueled multiplayer 2D shooter game that will keep you on the edge of your seat! In Ammo Arcade, players are thrust into fast-paced battles where quick reflexes and strategic thinking are key to victory. Engage in intense shootouts with friends or foes from around the world in dynamic arenas filled with obstacles, power-ups, and endless action.
 
 Choose from a variety of characters, each with unique abilities and weapons, and customize your loadout to suit your playstyle. Whether you prefer close-quarters combat or long-range sniping, Ammo Arcade offers thrilling gameplay experiences for every type of shooter fan. Join the battle, hone your skills, and dominate the competition in Ammo Arcade!
+
+BlareArcade offers a dynamic collection of arcade games meticulously crafted and securely built on the blockchain. With BlareArcade, players dive into a world of immersive gaming experiences while enjoying the benefits of decentralization, ensuring fairness and true ownership of in-game assets.
